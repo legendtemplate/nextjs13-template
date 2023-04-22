@@ -1,5 +1,3 @@
-~~An example of strikethrough text~~  
-
 sFolder Structure
 ============================
 
