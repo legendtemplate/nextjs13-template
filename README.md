@@ -1,4 +1,4 @@
-Folder Structure
+sFolder Structure
 ============================
 
 > Folder structure for next js projects layout
@@ -39,7 +39,7 @@ Folder Structure
     │   ├── Autoprefixer
     │── React            
     │   ├── React Dom   
-    │   ├── React Icons
+    │   ├── <s></s>React Icons</s>
     │── Next 
     │── Typescript
     │── Javascript
