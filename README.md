@@ -31,15 +31,15 @@ sFolder Structure
 
 > Use npm package
 
-    │── Chakra UI                
-    │   ├── Emotions
-    │   ├── Chakra Icons
-    │── Tailwind CSS   
-    │   ├── Post CSS
-    │   ├── Autoprefixer
+    │── ~~Chakra UI~~                
+    │   ├── ~~Emotions~~
+    │   ├── ~~Chakra Icons~~
+    │── ~~Tailwind CSS~~  
+    │   ├── ~~Post CSS~~
+    │   ├── ~~Autoprefixer~~
     │── React            
-    │   ├── React ~Dom~   
-    │   ├── <s></s>React Icons</s>
+    │   ├── ~~React Dom~~
+    │   ├── ~~React Icons~~  
     │── Next 
     │── Typescript
     │── Javascript
