@@ -1,4 +1,4 @@
-sFolder Structure
+Folder Structure
 ============================
 
 > Folder structure for next js projects layout
@@ -30,7 +30,7 @@ sFolder Structure
     │── tsconfig.json
 
 > Use npm package
-
+~~Chakra UI~~ 
     │── ~~Chakra UI~~                
     │   ├── ~~Emotions~~
     │   ├── ~~Chakra Icons~~
