@@ -10,9 +10,7 @@ Folder Structure
     ├── .next         
     ├── .vscode        
     ├── app     
-    │   ├── api  
-    │   │     ├──  preview.ts           
-    │   │     ├──  exit-preview.ts         
+    │   ├── api         
     │   ├── page.tsx (Home Page)            
     │   ├── layout.tsx (Layout Page)            
     ├── components           
