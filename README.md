@@ -30,13 +30,13 @@ Folder Structure
 
 > Use npm package
 
-~~Chakra UI~~  
-~~Chakra Icons~~
-~~Tailwind CSS~~ 
-React
-~~React Icons~~ 
-Next  
-Typescript  
-Javascript 
-Framer Motion 
-Eslint 
+~~Chakra UI~~ <br />
+~~Chakra Icons~~ <br />
+~~Tailwind CSS~~ <br />
+React <br />
+~~React Icons~~ <br />
+Next <br />
+Typescript <br />
+Javascript <br />
+Framer Motion <br />
+Eslint <br />
