@@ -31,11 +31,18 @@ Folder Structure
 
 > Use npm package
 
-    │── Chakra UI - Emotions - Chakra Icons
-    │── Tailwind CSS - Post CSS - Autoprefixer
-    │── React - Dom - Icons
+    │── Chakra UI                
+    │   ├── Emotions
+    │   ├── Chakra Icons
+    │── Tailwind CSS   
+    │   ├── Post CSS
+    │   ├── Autoprefixer
+    │── React            
+    │   ├── React Dom   
+    │   ├── React Icons
     │── Next 
     │── Typescript
     │── Javascript
     │── Framer Motion
     │── Eslint
+    │   ├── Next Eslint
