@@ -38,7 +38,7 @@ sFolder Structure
     │   ├── Post CSS
     │   ├── Autoprefixer
     │── React            
-    │   ├── React Dom   
+    │   ├── React ~Dom~   
     │   ├── <s></s>React Icons</s>
     │── Next 
     │── Typescript
