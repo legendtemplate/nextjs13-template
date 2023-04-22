@@ -1,9 +1,7 @@
 Folder Structure
 ============================
 
-> Folder structure for next js projects
-
-### A typical top-level directory layout
+> Folder structure for next js projects layout
 
     .
     ├── ...
@@ -31,6 +29,13 @@ Folder Structure
     │── tailwind.config.js
     │── tsconfig.json
 
-> Use short lowercase names at least for the top-level files and folders except
-> `LICENSE`, `README.md`
+> Use npm package
 
+    │── Chakra UI - Emotions - Chakra Icons
+    │── Tailwind CSS - Post CSS - Autoprefixer
+    │── React - Dom - Icons
+    │── Next 
+    │── Typescript
+    │── Javascript
+    │── Framer Motion
+    │── Eslint
