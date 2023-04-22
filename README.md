@@ -30,7 +30,7 @@ Folder Structure
     │── tsconfig.json
 
 > Use npm package
-~~Chakra UI~~ 
+
     │── ~~Chakra UI~~                
     │   ├── ~~Emotions~~
     │   ├── ~~Chakra Icons~~
