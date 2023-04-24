@@ -47,6 +47,4 @@ Next <br />
 Typescript <br />
 Javascript <br />
 Framer Motion <br />
-Eslint <br />
-Eslint <br />
 Redux <br />
