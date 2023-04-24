@@ -7,17 +7,26 @@ Folder Structure
     ├── .next         
     ├── .vscode        
     ├── app     
-    │   ├── api         
+    │   ├── api       
+    │   ├── chakra          
+    │   │     ├── provider.tsx               
     │   ├── page.tsx (Home Page)            
     │   ├── layout.tsx (Layout Page)            
-    ├── components           
+    │   ├── loading.tsx          
+    ├── components          
+    │   ├── layout         
+    │   │     ├── loader        
+    │   │     │     ├── page.tsx        
+    │   │     ├── container        
+    │   │     │     ├── page.tsx        
     ├── node_modules         
-    ├── public            
+    ├── public        
     ├── style                    
-    │   ├── global.css          
-    │   ├── global.scss       
+    │   ├── global.css        
     ├── types                    
     │   ├── index.ts                                                      
+    │── .env
+    │── .env.example
     │── .eslintrc.json
     │── .gitignore
     │── next.config.js
@@ -31,7 +40,6 @@ Folder Structure
 > Use npm package
 
 ~~Chakra UI~~ <br />
-~~Chakra Icons~~ <br />
 ~~Tailwind CSS~~ <br />
 React <br />
 ~~React Icons~~ <br />
@@ -40,3 +48,5 @@ Typescript <br />
 Javascript <br />
 Framer Motion <br />
 Eslint <br />
+Eslint <br />
+Redux <br />
